@@ -1,6 +1,0 @@
-{
-  plugins:[
-    'babel-preset-react',
-    'babel-preset-es2015'
-  ]
-}
